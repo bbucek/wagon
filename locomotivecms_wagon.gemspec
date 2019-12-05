@@ -34,7 +34,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'listen',                '~> 2.7.5'
   gem.add_dependency 'rack-livereload',       '~> 0.3.15'
 
-  gem.add_dependency 'httmultiparty',         '0.3.10'
+  gem.add_dependency 'httmultiparty',         '0.3.16'
   gem.add_dependency 'will_paginate',         '~> 3.0.3'
   gem.add_dependency 'locomotivecms_mounter', '~> 1.5.8'
 
